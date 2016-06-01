@@ -1,0 +1,21 @@
+README
+======
+
+Favicons for www.buffus.cz from [RealFaviconGenerator](http://realfavicongenerator.net/).
+
+
+Insert the following code in the <head> section of your pages:
+--------------------------------------------------------------
+
+Use this URLs in production:
+
+```html
+
+```
+
+
+Use this URLs for development
+
+```html
+
+```
