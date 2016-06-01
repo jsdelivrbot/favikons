@@ -31,10 +31,3 @@ Use this URLs in production:
 <meta name="msapplication-config" content="https://cdn.rawgit.com/PolakWeb/favikons/master/www.sk321start.cz/the_favicon/browserconfig.xml">
 <meta name="theme-color" content="#ffffff">
 ```
-
-
-Use this URLs for development
-
-```html
-
-```
