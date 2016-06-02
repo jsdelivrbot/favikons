@@ -7,7 +7,7 @@ Favicons for [www.buffus.cz](http://www.buffus.cz) from [RealFaviconGenerator](h
 Use this URLs in production
 ----------------------------
 
-- Insert the following code in the [RealFaviconGenerator](http://realfavicongenerator.net/)
+- Insert the following code in the [RealFaviconGenerator](http://realfavicongenerator.net/):
 ```html
 https://cdn.rawgit.com/PolakWeb/favikons/master/www.buffus.cz/the_favicon
 ```
@@ -21,7 +21,7 @@ https://cdn.rawgit.com/PolakWeb/favikons/master/www.buffus.cz/the_favicon
 Use this URLs for development
 -----------------------------
 
-- Insert the following code in the [RealFaviconGenerator](http://realfavicongenerator.net/)
+- Insert the following code in the [RealFaviconGenerator](http://realfavicongenerator.net/):
 ```html
 https://rawgit.com/PolakWeb/favikons/master/www.buffus.cz/the_favicon
 ```
