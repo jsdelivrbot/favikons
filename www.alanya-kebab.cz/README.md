@@ -1,7 +1,8 @@
-README
-======
+Favicons for www.alanya-kebab.cz
+================================
 
-[[https://github.com/PolakWeb/favikons/blob/master/www.alanya-kebab.cz/the_favicon/favicon-96x96.png|alt=ALANYA KEBAB]]
+![Logo ALANYA KEBAB](https://cdn.rawgit.com/PolakWeb/favikons/master/www.alanya-kebab.cz/the_favicon/favicon-96x96.png "Logo ALANYA KEBAB")
+
 
 Favicons for www.alanya-kebab.cz from [RealFaviconGenerator](http://realfavicongenerator.net/).
 
