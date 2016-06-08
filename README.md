@@ -14,7 +14,7 @@ Use this URL in production
 ```html
 https://cdn.rawgit.com/PolakWeb/favikons/tree/master/www.polakweb.com/the_favicon
 or
-https://cdn.rawgit.com/PolakWeb/favikons/tree/commit/www.polakweb.com/the_favicon
+https://cdn.rawgit.com/user/repo/commit/file
 ```
 
 
