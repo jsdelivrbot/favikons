@@ -23,4 +23,7 @@ Use this URL for development
 https://rawgit.com/PolakWeb/favikons/tree/master/www.polakweb.com/the_favicon
 ```
 
+Read more: https://github.com/rgrove/rawgit/wiki/Frequently-Asked-Questions#how-long-does-the-cdn-cache-files-how-can-i-make-it-refresh-my-file
+
+
 Enjoy yourself.
