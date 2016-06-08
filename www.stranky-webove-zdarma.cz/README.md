@@ -1,10 +1,10 @@
 Favicons for www.stranky-webove-zdarma.cz
 =========================================
 
-![Logo STRÁNKY WEBOVÉ ZDARMA](https://cdn.rawgit.com/PolakWeb/favikons/COMMIT/www.stranky-webove-zdarma.cz/the_favicon/favicon-96x96.png "Logo STRÁNKY WEBOVÉ ZDARMA")
+![Logo STRÁNKY WEBOVÉ ZDARMA](https://cdn.rawgit.com/PolakWeb/favikons/cd49b97/www.stranky-webove-zdarma.cz/the_favicon/favicon-96x96.png "Logo STRÁNKY WEBOVÉ ZDARMA")
 
 
-Favicons for [www.stranky-webove-zdarma.cz](//www.stranky-webove-zdarma.cz) from [RealFaviconGenerator](http://realfavicongenerator.net/).
+Favicons `cd49b97` for [www.stranky-webove-zdarma.cz](//www.stranky-webove-zdarma.cz) from [RealFaviconGenerator](http://realfavicongenerator.net/).
 
 
 Insert the following code in the <head> section of your pages:
