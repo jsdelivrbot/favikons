@@ -13,6 +13,8 @@ Use this URL in production
 **Note**: Edit this path for your domain.
 ```html
 https://cdn.rawgit.com/PolakWeb/favikons/tree/master/www.polakweb.com/the_favicon
+or
+https://cdn.rawgit.com/PolakWeb/favikons/tree/commit/www.polakweb.com/the_favicon
 ```
 
 
