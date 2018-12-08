@@ -2,10 +2,10 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square70x70logo src="https://cdn.rawgit.com/PolakWeb/favikons/master/www.sk321start.cz/the_favicon/mstile-70x70.png"/>
-      <square150x150logo src="https://cdn.rawgit.com/PolakWeb/favikons/master/www.sk321start.cz/the_favicon/mstile-150x150.png"/>
-      <square310x310logo src="https://cdn.rawgit.com/PolakWeb/favikons/master/www.sk321start.cz/the_favicon/mstile-310x310.png"/>
-      <wide310x150logo src="https://cdn.rawgit.com/PolakWeb/favikons/master/www.sk321start.cz/the_favicon/mstile-310x150.png"/>
+      <square70x70logo src="https://cdn.jsdelivr.net/gh/PolakWeb/favikons/www.sk321start.cz/the_favicon/mstile-70x70.png"/>
+      <square150x150logo src="https://cdn.jsdelivr.net/gh/PolakWeb/favikons/www.sk321start.cz/the_favicon/mstile-150x150.png"/>
+      <square310x310logo src="https://cdn.jsdelivr.net/gh/PolakWeb/favikons/www.sk321start.cz/the_favicon/mstile-310x310.png"/>
+      <wide310x150logo src="https://cdn.jsdelivr.net/gh/PolakWeb/favikons/www.sk321start.cz/the_favicon/mstile-310x150.png"/>
       <TileColor>#9f00a7</TileColor>
     </tile>
   </msapplication>
